@@ -1,0 +1,23 @@
+[
+    {
+        "title": "仿小米商城首页",
+        "desc": "利用laravel框架，实现商城的基本功能，登录注册，购买商品，通过Javascript制作了一些效果，给予用户视觉的享受和购物的乐趣",
+        "imgName": "1",
+        "demoAddress": "1-1.png",
+        "codeAddress": "laravel"
+    }, 
+     {
+        "title": "仿小米商城列表页",
+        "desc": "利用laravel框架，实现商城的基本功能，登录注册，购买商品，通过Javascript制作了一些效果，给予用户视觉的享受和购物的乐趣",
+        "imgName": "2",
+        "demoAddress": "2-2.png",
+        "codeAddress": "laravel"
+    },
+     {
+        "title": "仿小米商城详情页",
+        "desc": "利用laravel框架，实现商城的基本功能，登录注册，购买商品，通过Javascript制作了一些效果，给予用户视觉的享受和购物的乐趣",
+        "imgName": "3",
+        "demoAddress": "3-3.png",
+        "codeAddress": "laravel"
+    }   
+]
